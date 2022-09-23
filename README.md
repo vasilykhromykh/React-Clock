@@ -1,4 +1,4 @@
 # React Clock App(Real time)
-![image](https://user-images.githubusercontent.com/71073510/192039868-e972f2ee-b8fb-4b40-b258-3587500f9d13.png)
+![image](https://user-images.githubusercontent.com/71073510/192039981-091cb926-30ba-4920-8bdd-3131e6064f3d.png)
 
 
